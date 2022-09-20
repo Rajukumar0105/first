@@ -5,6 +5,7 @@ public class Bike {
 	private int registerNo;
 	private String color;
 	private int price;
+	String name;
 	private boolean isPetrol;
 
 	public Bike(String brand, int registerNo, String color, int price, boolean isPetrol) {
